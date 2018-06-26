@@ -1,0 +1,2 @@
+class MachineCategory < ApplicationRecord
+end
